@@ -1,1 +1,16 @@
+/*
+Engineering Lessons
+Dr Firew Abera
 
+The TikTok Lessons
+===========================
+
+A 15 pieces dispenser (Blink LED 15 Times)
+
+Despensing frequency = 1 piece per second
+
+Press button to despense
+
+You cacn attach LED at pin 13 but the LED onboard the 
+arduino is already used
+*/
